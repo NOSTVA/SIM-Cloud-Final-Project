@@ -1,0 +1,10 @@
+POST http://localhost:9000/api/inventory/products
+Content-Type: application/json
+
+{
+    "name": "Epson Workforce Pro",
+    "description": "Epson Workforce Pro WF-7840 Wireless All-in-One Wide-Format Printer with Auto 2-Sided Print up to 13 19, Copy, Scan and Fax",
+    "category": "printers",
+    "quantity": 4,
+    "price": 259.99
+}

@@ -1,0 +1,5 @@
+Application/accounts-service/node_modules
+Application/api-gateway/node_modules
+Application/inventory-service/node_modules
+Application/front-end/node_modules
+client
